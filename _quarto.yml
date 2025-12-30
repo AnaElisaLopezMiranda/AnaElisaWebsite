@@ -17,9 +17,11 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - cv.qmd
-      - teaching.qmd
+      - text: CV
+        href: cv.pdf
+        target: _blank
+      - href: teaching.qmd
+        text: Teaching
       - research.qmd
 page-footer: |
   Last updated December 2025  

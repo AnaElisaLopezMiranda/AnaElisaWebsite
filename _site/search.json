@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Ana Elisa’s Lopez-Mianda",
+    "title": "About",
     "section": "",
-    "text": "Welcome to Ana Elisa’s Personal Website!\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Hello! I am a fourth year student at the University of Toronto Mississauga. I am studying statistics, economics, and computer science. I am a teaching assistant across three programs (math, statistics, and economics) and have course credits across eight different programs (to be fair - three of those did come from AP courses). My research interests at a high level are statistical (statistics!) and computational (computer science!) applications in the social sciences (economics!).\nBeyond my obligatory interests in my programs, I also enjoy architecture, art museums, philosophy, and sewing."
   },
   {
     "objectID": "about.html",
@@ -26,5 +26,33 @@
     "title": "About",
     "section": "Experience",
     "text": "Experience"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nUniversity of Toronto Mississauga | Mississauga, ON HBSc in Statistics, Economics, and Computer Science | Sept 2022 - June 2026"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Fall 2025",
+    "section": "",
+    "text": "Below are the course offerings I have been a teaching assitant for.\n\nFall 2025\nECO101H5: Principles of Microeconomics with Professor Lee Bailey\n\n\nSpring 2025\nECO102H5: Principles of Macroeconomics with Professor Lee Bailey\n\n\nSummer 2025\nSTA256H5: Probability and Statistics I with Professor Omid Jazi\n\n\nFall 2025\nECO101H5: Principles of Microeconomics with Professor Lee Bailey\nMAT102H5: Introduction to Mathematical Proofs with Professor Tyler Holden\n\n\nSpring 2026\nECO102H5: Principles of Macroeconomics with Professor Lee Bailey\nMAT102H5: Introduction to Mathematical Proofs with Professor Tyler Holden\nSTA260H5: Probability and Statistics II with Professor Omid Jazi\nSTA305H5: Experimental Design with Professor Omid Jazi"
   }
 ]

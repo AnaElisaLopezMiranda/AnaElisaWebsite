@@ -1,7 +1,17 @@
 ---
-title: "Ana Elisa's Lopez-Mianda"
+title: "About"
+image: prof.jpg
+about:
+  template: solana
 ---
 
-Welcome to Ana Elisa's Personal Website!
+Hello! I am a fourth year student at the University of Toronto Mississauga. I am studying statistics, economics, and computer science. I am a teaching assistant across three programs (math, statistics, and economics) and have course credits across eight different programs (to be fair - three of those did come from AP courses). My research interests at a high level are statistical (statistics!) and computational (computer science!) applications in the social sciences (economics!). 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Beyond my obligatory interests in my programs, I also enjoy architecture, art museums, philosophy, and sewing. 
+
+## Education
+
+University of Toronto Mississauga | Mississauga, ON
+HBSc in Statistics, Economics, and Computer Science | Sept 2022 - June 2026
+
+## Experience

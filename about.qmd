@@ -1,8 +1,8 @@
 ---
 title: "About"
-image: profile.jpeg
+image: prof.jpg
 about:
-  template: jolla
+  template: solana
 ---
 
 ## Education

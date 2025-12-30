@@ -1,5 +1,33 @@
 ---
-title: "Teaching"
+title: ""
 ---
 
-About this site
+Below are the course offerings I have been a teaching assitant for.
+
+# Fall 2025
+
+ECO101H5: Principles of Microeconomics with Professor Lee Bailey
+
+# Spring 2025
+
+ECO102H5: Principles of Macroeconomics with Professor Lee Bailey
+
+# Summer 2025
+
+STA256H5: Probability and Statistics I with Professor Omid Jazi
+
+# Fall 2025
+
+ECO101H5: Principles of Microeconomics with Professor Lee Bailey
+
+MAT102H5: Introduction to Mathematical Proofs with Professor Tyler Holden
+
+# Spring 2026
+
+ECO102H5: Principles of Macroeconomics with Professor Lee Bailey
+
+MAT102H5: Introduction to Mathematical Proofs with Professor Tyler Holden
+
+STA260H5: Probability and Statistics II with Professor Omid Jazi
+
+STA305H5: Experimental Design with Professor Omid Jazi
