@@ -28,11 +28,14 @@ website:
       - href: projects.qmd
         text: Projects
   page-footer: |
-    Last updated December 2025  
+    Last updated January 2026  
     © 2026 Ana Elisa Lopez-Miranda
 
 format:
   html:
+    include-in-header:
+        text: |
+         <meta name="google-site-verification" content="j93ZO-F6p1XOE-HXXDOR3xXwgi6sfhWzQt5kUM-F9RE" />
     theme:
       - cosmo
       - brand
