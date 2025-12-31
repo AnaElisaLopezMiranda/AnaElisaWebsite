@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "Hello! I am a fourth year student at the University of Toronto Mississauga. I am studying statistics, economics, and computer science. I am a teaching assistant across three programs (math, statistics, and economics) and have course credits across eight different programs (to be fair - three of those did come from AP courses). My research interests at a high level are statistical (statistics!) and computational (computer science!) applications in the social sciences (economics!).\nBeyond my obligatory interests in my programs, I also enjoy architecture, art museums, philosophy, and sewing."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nUniversity of Toronto Mississauga\nMississauga, ON\nHBSc in Statistics, Economics, and Computer Science\nSept 2022 - June 2026"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nData Scientist\nInvestigative Journalism Foundation\nSept. 2025 - Present\nTeaching Assistant\nUniversity of Toronto\nSept. 2024 - Present\nResearch and Development Associate\nInvestigative Journalism Foundation\nMay 2025 - Aug. 2025"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Completed",
+    "section": "",
+    "text": "This lists all the research I have done with professors. Any personal or course-related research is under projects.\n\nCompleted\nPrompting the Professoriate: A Qualitative Study of Instructor Perspectives on LLMs in Data Science Education (Under review at HDSR)\nMay 2025 – Aug. 2025\nSupervisor: Prof. Rohan Alexander\n\nConducted qualitative interviews and co-authored a research paper on the use of Large Language Models in data science for journal publication (under review at Harvard Data Science Review) while working at the Investigative Journalism Foundation.\nDeveloped and analyzed simulation studies in Python and R to evaluate survey design, sampling assumptions, and response bias; visualized results using ggplot2 and Matplotlib.\nProduced reproducible workflows, notebooks, and technical documentation to support transparent and long-term maintainable research.\n\nPaper\nData Science Institute Talent Showcase | Prompting the Professoriate\nJan. 2026\n[Paper]\nEstimation under Cox Model with Biased Sampling Data\nMay 2025 - Aug. 2025\nSupervisor: Prof. Omidali Jazi\n\nWrote a research paper comparing Composite Partial Likelihood (CPL) estimation method and Partial Likelihood (PL) estimation method under length-biased sampling, confirming results by Huang & Jin (2012).\nDesigned and ran 40+ simulation conditions on biased sampling with left truncation and right censoring varying hazard shape (constant, increasing, U-shaped), censoring schemes (0–40%), and sample sizes (N=200, 400); evaluated estimator bias, empirical SE, MSE, and CI coverage, and applied methods to the Channing House dataset.\n\nPaper\nUndergraduate Research Showcase | Estimation under Cox Model with Biased Sampling Data\nSept. 2025\nPoster\n\n\nIn Progress\nGreat Expectations: A Qualitative Study of Statistic Students Perspectives on LLMs\nSept. 2025 – Present\nSupervisor: Prof. Rohan Alexander\n\nContributed to the ethics application and research protocol for a qualitative study on student perspectives toward LLMs in statistics courses while working at the Investigative Journalism Foundation.\nConducted literature review on LLM usage, student learning behaviors, and AI-assisted education.\nDeveloped simulation workflows in R to test survey structure, ranking systems, and data-processing procedures.\n\nThe Effect of Omitted Variable Bias on Empirical Papers\nSept. 2025 - Present\nSupervisor: Prof. Roman Zarate\n\nAssisted in a project on omitted variable bias in applied econometrics, focusing on how it affects published empirical results.\nConducted extensive literature reviews of empirical economics papers and documented key model specifications, variables, and results.\nUsed Stata to replicate published results and began analyses to assess the sensitivity of estimates to alternative specifications."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Ana Elisa Lopez-Miranda",
+    "section": "",
+    "text": "Below are the course offerings I have been a teaching assitant for.\nFall 2024\nECO101H5: Principles of Microeconomics with Professor Lee Bailey\nSpring 2025\nECO102H5: Principles of Macroeconomics with Professor Lee Bailey\nSummer 2025\nSTA256H5: Probability and Statistics I with Professor Omidali Jazi\nFall 2025\nECO101H5: Principles of Microeconomics with Professor Lee Bailey\nMAT102H5: Introduction to Mathematical Proofs with Professor Tyler Holden\nSpring 2026\nECO102H5: Principles of Macroeconomics with Professor Lee Bailey\nMAT102H5: Introduction to Mathematical Proofs with Professor Tyler Holden\nSTA260H5: Probability and Statistics II with Professor Omidali Jazi\nSTA305H5: Experimental Design with Professor Omidali Jazi"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Ana Elisa Lopez-Miranda",
+    "section": "",
+    "text": "The Micro-Determinants of Credit Spreads\nThe yield that investors require to purchase a firm’s bond is often expressed as the spread over the yield provided by a comparable government bond. Previous research shows that this yield depends upon macro-determinants and micro-determinants. This paper assesses the importance of firm specific factors, as proxied by accounting measures, in determining the spread for its bonds.\nPaper\nSubverting the Fear of Death: Platonic, Medieval Christian, and Absurdist Criticisms of Transhumanism\nAbstract: This thesis will apply the arguments of Plato, Boethius, and Camus concerning the fear of death to the issue of transhumanism. The aspect of transhumanism that this paper will be focusing on is the transhumanist project to eradicate death. This paper will first demonstrate that transhumanism is rooted in the fear of death. The paper will then demonstrate that this is the incorrect way to approach death using the arguments and warnings of the philosophers. All three authors in their respective books agree that humanity should not fear death because it is better to be happy with one’s lot than to strive against fate. I am presenting the view of the three authors as a corrective to the view of death as seen in transhumanism.\nPaper\nImpact of COVID-19 on Student Learning and Adaptation\nAbstract: Education was one of the many systems COVID-19 disrupted globally. It forced students to adapt to abrupt changes in learning environments. This study investigates how COVID-19 related changes impacted student learning and adaptation, focusing on domestic and international STA304 students at the University of Toronto Mississauga campus. We distributed our survey online by providing a link to it in the course’s online discussion platform (Piazza). Analysis reveals that COVID-19 had a significant impact on both groups of students. Surprisingly, it also revealed that both groups shared a common experience, with no significant difference in how the pandemic impacted their academic success, engagement, or skills.\nPaper\nThe Effects of Stimuli on Short-Term Memory Tasks\nAbstract: Caffeine is an extremely popular stimuli used by people all over the world to enhance their performance. It has become somewhat of a modern staple to indulge in caffeinated beverages at the start of the day to help overcome the lethargy of the morning. Before major presentations, study sessions or tests, people will often indulge in a large dose of caffeine before beginning the task to boost productivity. The study explored various mental stimuli and if they have an impact on performance for cognitive tasks. Using random blocking on a simulated population, participants were given stimuli, such as cocaine or various kinds of energy drinks, and then asked to perform a memory card game. The results show that none of the tested treatments impacted memory card scores. In response, our findings suggest that stimulants such as caffeine and cocaine do not enhance cognitive performance, at least in the context of short-term memory tasks.\nPaper\nMachine Learning Model Development\nIn this project, I collaborated on building K-Nearest Neighbors (KNN), Decision Tree, and Neural Network models from scratch, including data pre-processing with regex, train/validation/test splits, and model evaluation. I led the neural network component using PyTorch, performing hyperparameter tuning, extracting weights, and implementing a manual forward pass without libraries.\nPaper"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "University of Toronto Mississauga Mississauga, ON HBSc in Statistics, Economics, and Computer Science Sept 2022 - June 2026"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "",
+    "text": "University of Toronto Mississauga Mississauga, ON HBSc in Statistics, Economics, and Computer Science Sept 2022 - June 2026"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nData Scientist Investigative Journalism Foundation Sept. 2025 - Present\nTeaching Assistant University of Toronto Sept. 2024 - Present\nResearch and Development Associate Investigative Journalism Foundation May 2025 - Aug. 2025"
+  }
+]
