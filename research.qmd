@@ -1,5 +1,76 @@
 ---
-title: "Research"
+title: ""
 ---
 
-About this site
+This lists all the research I have done with professors. Any personal or course-related research is under projects. 
+
+# Completed
+
+**Prompting the Professoriate: A Qualitative Study of Instructor Perspectives on LLMs in Data Science Education (Under review at HDSR)** 
+
+May 2025 – Aug. 2025
+
+*Supervisor: Prof. Rohan Alexander*
+
+- Conducted qualitative interviews and co-authored a research paper on the use of Large Language Models in data
+science for journal publication (under review at Harvard Data Science Review) while working at the Investigative
+Journalism Foundation.
+- Developed and analyzed simulation studies in Python and R to evaluate survey design, sampling assumptions, and
+response bias; visualized results using ggplot2 and Matplotlib.
+- Produced reproducible workflows, notebooks, and technical documentation to support transparent and long-term
+maintainable research.
+
+<a href="https://arxiv.org/abs/2509.12283" target="_blank" rel="noopener">Paper</a>
+
+Data Science Institute Talent Showcase  | Prompting the Professoriate
+
+Jan. 2026
+
+[Paper]
+
+**Estimation under Cox Model with Biased Sampling Data** 
+
+May 2025 - Aug. 2025 
+
+*Supervisor: Prof. Omidali Jazi*
+
+- Wrote a research paper comparing Composite Partial Likelihood (CPL) estimation method and Partial Likelihood
+(PL) estimation method under length-biased sampling, confirming results by Huang & Jin (2012).
+-  Designed and ran 40+ simulation conditions on biased sampling with left truncation and right censoring varying
+hazard shape (constant, increasing, U-shaped), censoring schemes (0–40%), and sample sizes (N=200, 400);
+evaluated estimator bias, empirical SE, MSE, and CI coverage, and applied methods to the Channing House
+dataset.
+
+<a href="/survival_analysis.pdf" target="_blank" rel="noopener">Paper</a>
+
+Undergraduate Research Showcase | Estimation under Cox Model with Biased Sampling Data 
+
+Sept. 2025
+
+<a href="/poster.pdf" target="_blank" rel="noopener">Poster</a>
+
+# In Progress
+
+**Great Expectations: A Qualitative Study of Statistic Students Perspectives on LLMs**
+
+Sept. 2025 – Present
+
+*Supervisor: Prof. Rohan Alexander*
+
+- Contributed to the ethics application and research protocol for a qualitative study on student perspectives toward
+LLMs in statistics courses while working at the Investigative Journalism Foundation.
+- Conducted literature review on LLM usage, student learning behaviors, and AI-assisted education.
+- Developed simulation workflows in R to test survey structure, ranking systems, and data-processing procedures.
+
+**The Effect of Omitted Variable Bias on Empirical Papers** 
+
+Sept. 2025 - Present
+
+*Supervisor: Prof. Roman Zarate*
+
+- Assisted in a project on omitted variable bias in applied econometrics, focusing on how it affects published
+empirical results.
+- Conducted extensive literature reviews of empirical economics papers and documented key model specifications,
+variables, and results.
+- Used Stata to replicate published results and began analyses to assess the sensitivity of estimates to alternative
+specifications.

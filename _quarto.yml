@@ -11,7 +11,8 @@ website:
       - icon: github
         href: https://github.com/AnaElisaLopezMiranda
       - icon: linkedin
-        href: www.linkedin.com/in/ana-elisa-l
+        href: https://www.linkedin.com/in/ana-elisa-lopez-miranda
+        target: _blank
       - icon: envelope
         href: mailto:a.lopez.miranda@mail.utoronto.ca 
     left:
@@ -22,10 +23,13 @@ website:
         target: _blank
       - href: teaching.qmd
         text: Teaching
-      - research.qmd
-page-footer: |
-  Last updated December 2025  
-  © 2026 Ana Elisa Lopez-Miranda
+      - href: research.qmd
+        text: Research
+      - href: projects.qmd
+        text: Projects
+  page-footer: |
+    Last updated December 2025  
+    © 2026 Ana Elisa Lopez-Miranda
 
 format:
   html:

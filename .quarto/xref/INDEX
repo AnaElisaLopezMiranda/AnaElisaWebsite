@@ -10,5 +10,11 @@
   },
   "teaching.qmd": {
     "teaching.html": "3c657499"
+  },
+  "research.qmd": {
+    "research.html": "3c75e667"
+  },
+  "projects.qmd": {
+    "projects.html": "e4d7747d"
   }
 }
