@@ -21,3 +21,29 @@ be happy with one's lot than to strive against fate. I am presenting the view of
 as a corrective to the view of death as seen in transhumanism.
 
 <a href="/seniorthesis.pdf" target="_blank" rel="noopener">Paper</a>
+
+**Impact of COVID-19 on Student Learning and Adaptation**
+
+Abstract: Education was one of the many systems COVID-19 disrupted globally. It forced students to adapt to abrupt changes in learning environments. This study investigates
+how COVID-19 related changes impacted student learning and adaptation, focusing
+on domestic and international STA304 students at the University of Toronto Mississauga campus. We distributed our survey online by providing a link to it in the
+course’s online discussion platform (Piazza). Analysis reveals that COVID-19 had
+a significant impact on both groups of students. Surprisingly, it also revealed that
+both groups shared a common experience, with no significant difference in how the
+pandemic impacted their academic success, engagement, or skills.
+
+<a href="/sta304.pdf" target="_blank" rel="noopener">Paper</a>
+
+**The Effects of Stimuli on Short-Term Memory Tasks**
+
+Abstract: Caffeine is an extremely popular stimuli used by people all over the world to enhance their performance. It has become somewhat of a modern staple to indulge in caffeinated beverages at the start of the day to help overcome the lethargy of the morning. Before major presentations, study sessions or tests, people will often indulge in a large dose of caffeine before beginning the task to boost productivity. The study explored various mental stimuli and if they have an impact on performance for cognitive tasks. Using random blocking on a simulated population, participants were given stimuli, such as cocaine or various kinds of energy drinks, and then asked to perform a memory card game. The results show that none of the tested treatments impacted memory card scores. In response, our findings suggest that stimulants such as caffeine and cocaine do not enhance cognitive performance, at least in the context of short-term memory tasks.
+
+<a href="/sta305.pdf" target="_blank" rel="noopener">Paper</a>
+
+
+**Machine Learning Model Development**
+
+In this project, I collaborated on building K-Nearest Neighbors (KNN), Decision Tree, and Neural Network models from scratch, including data pre-processing with regex, train/validation/test splits, and model evaluation. I led the neural network component using PyTorch, performing hyperparameter tuning, extracting weights, and
+implementing a manual forward pass without libraries.
+
+<a href="/csc311.pdf" target="_blank" rel="noopener">Paper</a>
