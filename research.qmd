@@ -6,7 +6,7 @@ This lists all the research I have done with professors. Any personal or course-
 
 # Completed
 
-**Prompting the Professoriate: A Qualitative Study of Instructor Perspectives on LLMs in Data Science Education (Under review at HDSR)** 
+**Prompting the Professoriate: A Qualitative Study of Instructor Perspectives on LLMs in Data Science Education (Accepted at HDSR)** 
 
 May 2025 – Aug. 2025
 
