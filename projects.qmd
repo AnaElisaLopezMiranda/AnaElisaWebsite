@@ -47,3 +47,17 @@ In this project, I collaborated on building K-Nearest Neighbors (KNN), Decision 
 implementing a manual forward pass without libraries.
 
 <a href="/csc311.pdf" target="_blank" rel="noopener">Paper</a>
+
+**Architectural Sectional Model**
+
+Based on knowledge about geometry, parametric design, digital fabrication, and model making, there is a 1:200 model and a 1:100 sectional model of a building, with landscaped base, core and continuous structural columns, enclosure, an atrium, and a glazed structure to cover the atrium space.
+
+<a href="/part1.jpg" target="_blank" rel="noopener">1:200 sketch model</a>
+
+<a href="/part2.jpeg" target="_blank" rel="noopener">1:100 final model
+</a>
+
+<a href="/exploded_axonometric.pdf" target="_blank" rel="noopener">exploded axonometric drawing</a>
+
+
+
