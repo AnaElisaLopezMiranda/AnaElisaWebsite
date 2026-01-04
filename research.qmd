@@ -26,7 +26,8 @@ Data Science Institute Talent Showcase  | Prompting the Professoriate
 
 Jan. 2026
 
-[Poster]
+<a href="/Data_Science_Institute_Poster.pdf" target="_blank" rel="noopener">Poster</a>
+
 
 **Estimation under Cox Model with Biased Sampling Data** 
 
