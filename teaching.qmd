@@ -6,28 +6,28 @@ Below are the course offerings I have been a teaching assistant for.
 
 **Fall 2024**
 
-ECO101H5: Principles of Microeconomics with Professor Lee Bailey
+ECO101H5: <a href="https://utm.calendar.utoronto.ca/course/eco101h5" target="_blank" rel="noopener">Principles of Microeconomics</a> with Professor Lee Bailey
 
 **Spring 2025**
 
-ECO102H5: Principles of Macroeconomics with Professor Lee Bailey
+ECO102H5: <a href="https://utm.calendar.utoronto.ca/course/eco102h5" target="_blank" rel="noopener">Principles of Macroeconomics</a> with Professor Lee Bailey
 
 **Summer 2025**
 
-STA256H5: Probability and Statistics I with Professor Omidali Jazi
+STA256H5: <a href="https://utm.calendar.utoronto.ca/course/sta256h5" target="_blank" rel="noopener">Probability and Statistics I</a> with Professor Omidali Jazi
 
 **Fall 2025**
 
-ECO101H5: Principles of Microeconomics with Professor Lee Bailey
+ECO101H5: <a href="https://utm.calendar.utoronto.ca/course/eco101h5" target="_blank" rel="noopener">Principles of Microeconomics</a> with Professor Lee Bailey
 
-MAT102H5: Introduction to Mathematical Proofs with Professor Tyler Holden
+MAT102H5: <a href="https://utm.calendar.utoronto.ca/course/mat102h5" target="_blank" rel="noopener">Introduction to Mathematical Proofs</a> with Professor Tyler Holden
 
 **Spring 2026**
 
-ECO102H5: Principles of Macroeconomics with Professor Lee Bailey
+ECO102H5: <a href="https://utm.calendar.utoronto.ca/course/eco102h5" target="_blank" rel="noopener">Principles of Macroeconomics</a> with Professor Lee Bailey
 
-MAT102H5: Introduction to Mathematical Proofs with Professor Tyler Holden
+MAT102H5: <a href="https://utm.calendar.utoronto.ca/course/mat102h5" target="_blank" rel="noopener">Introduction to Mathematical Proofs</a> with Professor Tyler Holden
 
-STA260H5: Probability and Statistics II with Professor Omidali Jazi
+STA260H5: <a href="https://utm.calendar.utoronto.ca/course/sta260h5" target="_blank" rel="noopener">Probability and Statistics II</a> with Professor Omidali Jazi
 
-STA305H5: Experimental Design with Professor Omidali Jazi
+STA305H5: <a href="https://utm.calendar.utoronto.ca/course/sta305h5" target="_blank" rel="noopener">Experimental Design</a> with Professor Omidali Jazi
